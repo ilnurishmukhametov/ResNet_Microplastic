@@ -4,4 +4,4 @@ ResNet used for microplastic particles classification in "Label-free identificat
 
 ### Overview
 
-The repository contains Python scripts defining ResNet architecture and data augmentation parameters based on [ResNet-builder API](https://akashdesarda.github.io/ResNet-builder/index.html). 
+The repository contains Python scripts defining ResNet architecture and data augmentation parameters for microplastic classification in biological samples based on [ResNet-builder API](https://akashdesarda.github.io/ResNet-builder/index.html). 
